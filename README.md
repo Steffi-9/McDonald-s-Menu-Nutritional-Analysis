@@ -36,5 +36,5 @@ Based on the analysis, the following recommendations could be made to McDonald's
 
 
 ## Author
-[Steffi-9]()
+[Steffi-9](https://github.com/Steffi-9)
 
