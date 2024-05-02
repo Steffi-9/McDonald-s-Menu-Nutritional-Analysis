@@ -31,7 +31,7 @@ Based on the analysis, the following recommendations could be made to McDonald's
 1. Introduce more low-calorie and nutritious options to cater to health-conscious customers.
 2. Consider reformulating recipes to reduce unhealthy components such as saturated fats, trans fats, and added sugars.
 3. Increase the availability of fresh and healthy ingredients in menu items.eg:Salads
-4. Provide more options in Beverages than Smoothies & Shakes as it contains less Sugar and Calorie.
+4. Provide more options in Beverages than Smoothies & Shakes containing less Sugar and Calories.
 
 
 
